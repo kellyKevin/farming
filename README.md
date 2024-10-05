@@ -1,4 +1,4 @@
-# web application designed to help farmers improve their agricultural practices by providing detailed recommendations based on crop/animal requirements and geographical conditions. Farmers can search for plants or animals they are interested in and receive personalized recommendations, including optimal growing conditions (e.g., soil type, rainfall, pH, and temperature). The application also visualizes heatmaps to indicate areas where specific crops or animals are most likely to thrive based on location data.
+web application designed to help farmers improve their agricultural practices by providing detailed recommendations based on crop/animal requirements and geographical conditions. Farmers can search for plants or animals they are interested in and receive personalized recommendations, including optimal growing conditions (e.g., soil type, rainfall, pH, and temperature). The application also visualizes heatmaps to indicate areas where specific crops or animals are most likely to thrive based on location data.
 
 ## Features
 🌱 Search Functionality: Farmers can search for specific crops or animals they want to cultivate.
